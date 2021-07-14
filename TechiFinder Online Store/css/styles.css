@@ -1,0 +1,53 @@
+body {
+  background-color: #FFFFFF;
+  width: auto; 
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 80px;
+}
+
+.full-footer {
+  background-color: #2D667E;
+  position: fixed;
+  bottom: 0;
+  height: 30px; 
+  width: 100%;
+  display: block;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.WelcomeText {
+  text-align: center;
+  margin-top: 10px;
+  color: goldenrod;
+}
+
+.row {
+  margin-top: 15px;
+  margin-left: 5%;
+  width: 90%;
+}
+
+.caption {
+  text-align: center;
+  height: auto;
+}
+
+#images img {
+  border: 2px solid;
+  border-radius: 5px;
+  color: black;
+  width: 10%;
+  height: 5%;
+}
+
+.breadcrumbs-section {
+  background-color: #E9ECEF;
+}
+
+.home-newsletter {
+  background-color: coral;
+}
+
